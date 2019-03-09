@@ -1,6 +1,6 @@
 # characterizing-eva-tableau
 
-The literature\_review.txt file contains the full list of references for our literature review, and our reasoning behind selecting papers for steps 2) and 3) of our paper selection method.
+The literature\_review.txt file contains the full list of references for our literature review, and our reasoning behind selecting papers for steps 1), 2) and 3) of our paper selection method.
 
 The code folder contains the code and data we used in our analyses.
 
