@@ -1,0 +1,129 @@
+1) Papers that design for or analyze EVA (at least in part) were reviewed.
+  * Liu, Z., & Heer, J. (2014). The effects of interactive latency on exploratory visual analysis. IEEE transactions on visualization and computer graphics, 20(12), 2122-2131.
+    * RATIONALE: Focuses study and analysis on EVA
+  * Keim, D.A., 2001. Visual exploration of large data sets. Communications of the ACM, 44(8), pp.38-44.
+    * RATIONALE: describes the challenges of supporting EVA
+  * Kanit Wongsuphasawat, Dominik Moritz, Anushka Anand, Jock Mackinlay, Bill Howe, and Jeffrey Heer. 2016b. Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations. IEEE Trans. Visualization & Comp. Graphics (Proc. InfoVis) (2016).
+    * RATIONALE: describes the challenges of EVA as motivation for tool design, focuses analysis on EVA
+  * Kanit Wongsuphasawat, Zening Qu, Dominik Moritz, Riley Chang, Felix Ouk, Anushka Anand, Jock Mackinlay, Bill Howe, Jeffrey Heer. Voyager 2: Augmenting Visual Analysis with Partial View Specifications. ACM Human Factors in Computing Systems (CHI), 2017.
+    * RATIONALE: describes the challenges of EVA as motivation for tool design, focuses analysis on EVA
+  * Perer, Adam, and Ben Shneiderman. "Systematic yet flexible discovery: guiding domain experts through exploratory data analysis." In Proceedings of the 13th international conference on Intelligent user interfaces, pp. 109-118. ACM, 2008.
+    * RATIONALE: describes the challenges of EDA and EVA as motivation for tool design, focuses on EDA and EVA use cases
+  * Reda, K., Johnson, A. E., Papka, M. E., & Leigh, J. (2016). Modeling and evaluating user behavior in exploratory visual analysis. Information Visualization, 15(4), 325-339.
+    * RATIONALE: Focuses study and analysis on EVA
+  * Alspaugh, S., Zokaei, N., Liu, A., Jin, C. and Hearst, M.A., 2018. Futzing and Moseying: Interviews with Professional Data Analysts on Exploration Practices. IEEE transactions on visualization and computer graphics.
+    * RATIONALE: Focuses study and analysis on EVA
+  * Zgraggen, E., Galakatos, A., Crotty, A., Fekete, J.D. and Kraska, T., 2017. How progressive visualizations affect exploratory analysis. IEEE Transactions on Visualization & Computer Graphics, (8), pp.1977-1987.
+    * RATIONALE: Focuses study and analysis on EVA
+  * Zgraggen, E., Zhao, Z., Zeleznik, R. and Kraska, T., 2018, April. Investigating the Effect of the Multiple Comparisons Problem in Visual Analysis. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (p. 479). ACM.
+    * RATIONALE: describes the challenges of EVA as motivation for study, focuses study and analysis on EVA
+  * Guo, H., Gomez, S. R., Ziemkiewicz, C., & Laidlaw, D. H. (2016). A case study using visualization interaction logs and insight metrics to understand how analysts arrive at insights. IEEE transactions on visualization and computer graphics, 22(1), 51-60.
+    * RATIONALE: Analyzes exploration actions and tasks within the larger context of visual analysis
+  * GOTZ D., ZHOU M. X.: Characterizing users’ visual analytic activity for insight provenance. In 2008 IEEE Symposium on Visual Analytics Science and Technology (Oct. 2008), pp. 123–130. 
+    * RATIONALE: Discusses exploration actions and tasks within the larger context of visual analysis
+  * Gotz, D., & Zhou, M. X. (2009). Characterizing users' visual analytic activity for insight provenance. Information Visualization, 8(1), 42-55.
+    * RATIONALE: Discusses exploration actions and tasks within the larger context of visual analysis
+  * Idreos, S., Papaemmanouil, O. and Chaudhuri, S., 2015, May. Overview of data exploration techniques. In Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data (pp. 277-281). ACM.
+    * RATIONALE: Survey/tutorial is focused on exploration use cases
+  * Jankun-Kelly, T. J., Ma, K. L., & Gertz, M. (2007). A model and framework for visualization exploration. IEEE Transactions on Visualization and Computer Graphics, 13(2), 357-369.
+    * RATIONALE: model design focuses on exploration
+  * Fisher, D., Popov, I., & Drucker, S. (2012, May). Trust me, I'm partially right: incremental visualization lets analysts explore large datasets faster. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 1673-1682). ACM.
+    * RATIONALE: Focuses analysis on exploration
+  * Lauro Lins, James T Klosowski, and Carlos Scheidegger. 2013. Nanocubes for real-time exploration of spatiotemporal datasets. In IEEE Transactions on Visualization and Computer Graphics (INFOVIS ’13).
+    * RATIONALE: designs for EVA as a primary goal
+  * Niranjan Kamat, Prasanth Jayachandran, Karthik Tunga, and Arnab Nandi. 2014. Distributed and interactive cube exploration. In International Conference on Data Engineering.
+    * RATIONALE: designs for EVA as a primary goal
+  * Dimitriadou, K., Papaemmanouil, O. and Diao, Y., 2014, June. Explore-by-example: An automatic query steering framework for interactive data exploration. In Proceedings of the 2014 ACM SIGMOD international conference on Management of data (pp. 517-528).
+    * RATIONALE: designs for EVA as a primary goal
+  * Kalinin, A., Cetintemel, U. and Zdonik, S., 2014, June. Interactive data exploration using semantic windows. In Proceedings of the 2014 ACM SIGMOD international conference on Management of data (pp. 505-516).
+    * RATIONALE: designs for EVA as a primary goal
+  * Vartak, M., Rahman, S., Madden, S., Parameswaran, A. and Polyzotis, N., 2015. SeeDB: efficient data-driven visualization recommendations to support visual analytics. Proceedings of the VLDB Endowment, 8(13), pp.2182-2193.
+    * RATIONALE: designs for EVA as a primary goal
+  * Crotty, A., Galakatos, A., Zgraggen, E., Binnig, C. and Kraska, T., 2016, June. The case for interactive data exploration accelerators (IDEAs). In Proceedings of the Workshop on Human-In-the-Loop Data Analytics (p. 11). ACM.
+    * RATIONALE: designs for EVA as a primary goal
+  * Feng, M., Peck, E. and Harrison, L., 2018. Patterns and Pace: Quantifying Diverse Exploration Behavior with Visualizations on the Web. IEEE transactions on visualization and computer graphics.
+    * RATIONALE: Focuses metric design and analysis on exploration
+  * Lam, Heidi, Melanie Tory, and Tamara Munzner. "Bridging from goals to tasks with design study analysis reports." IEEE transactions on visualization and computer graphics 24.1 (2018): 435-445.
+    * RATIONALE: includes discussion of EVA in the larger context of visual analysis
+  * J. W. Tukey. Exploratory data analysis. Reading, Ma, 231:32, 1977.
+    * RATIONALE: defines the larger exploration context in which EVA falls
+  * Battle, L., Chang, R. and Stonebraker, M., 2016, June. Dynamic prefetching of data tiles for interactive visualization. In Proceedings of the 2016 International Conference on Management of Data (pp. 1363-1375). ACM.
+    * RATIONALE: designs for EVA as a primary goal
+  * ElTayeby, O. and Dou, W., 2016, October. A Survey on Interaction Log Analysis for Evaluating Exploratory Visualizations. In Proceedings of the Sixth Workshop on Beyond Time and Errors on Novel Evaluation Methods for Visualization (pp. 62-69). ACM.
+    * RATIONALE: Focuses survey analysis on exploration
+  * DERTHICK M., ROTH S. F.: Enhancing data exploration with a branching history of user operations. Knowledge-Based Systems 14, 1 (Mar. 2001), 65–74.
+    * RATIONALE: designs for EVA as a primary goal
+  * DABEK F., CABAN J. J.: A Grammar-based Approach for Modeling User Interactions and Generating Suggestions During the Data Exploration Process. IEEE Transactions on Visualization and Computer Graphics 23, 1 (Jan. 2017), 41–50.
+    * RATIONALE: designs for EVA as a primary goal
+  * CHAN S.-M., XIAO L., GERTH J., HANRAHAN P.: Main- taining interactivity while exploring massive time series. In IEEE Sym- posium on Visual Analytics Science and Technology, 2008. VAST ’08 (Oct. 2008), pp. 59–66.
+    * RATIONALE: designs for EVA as a primary goal
+  * Rahman, S., Aliakbarpour, M., Kong, H.K., Blais, E., Karahalios, K., Parameswaran, A. and Rubinfield, R., 2017. I've seen enough: incrementally improving visualizations to support rapid decision making. Proceedings of the VLDB Endowment, 10(11), pp.1262-1273.
+    * RATIONALE: designs for EVA as a primary goal
+  * Siddiqui, T., Kim, A., Lee, J., Karahalios, K. and Parameswaran, A., 2016. Effortless data exploration with zenvisage: an expressive and interactive visual analytics system. Proceedings of the VLDB Endowment, 10(4), pp.457-468.
+    * RATIONALE: designs for EVA as a primary goal
+  * WONGSUPHASAWAT K., MORITZ D., ANAND A., MACKINLAY J., HOWE B., HEER J.: Towards a general-purpose query language for visualization recommendation. In Proceedings of the Workshop on Human-In-the-Loop Data Analytics (2016), ACM, p. 4 
+    * RATIONALE: describes the challenges of EVA to motivate language design
+  * AMAR R., EAGAN J., STASKO J.: Low-level components of analytic activity in information visualization. In IEEE Symposium on Information Visualization, 2005. INFOVIS 2005. (Oct. 2005), pp. 111– 117.
+    * RATIONALE: includes discussion of EVA in the larger context of visual analysis
+  * Gotz, D. and Wen, Z., 2009, February. Behavior-driven visualization recommendation. In Proceedings of the 14th international conference on Intelligent user interfaces (pp. 315-324). ACM.
+    * RATIONALE: describes the challenges of EVA as motivation for tool design
+  * STOLTE C., TANG D., HANRAHAN P.: Polaris: a system for query, analysis, and visualization of multidimensional relational databases. IEEE Transactions on Visualization and Computer Graph- ics 8, 1 (Jan 2002), 52–65.
+    * RATIONALE: describes the challenges of EVA as motivation for tool design
+  * YI J. S., KANG Y. A., STASKO J., JACKO J.: Toward a Deeper Understanding of the Role of Interaction in Information Visualization. IEEE Transactions on Visualization and Computer Graphics 13, 6 (Nov. 2007), 1224–1231.
+    * RATIONALE: discusses EVA within the larger context of visual analysis
+  * GRAMMEL L., TORY M., STOREY M. A.: How Information Visualization Novices Construct Visualizations. IEEE Transactions on Visualization and Computer Graphics 16, 6 (Nov. 2010), 943–952.
+    * RATIONALE: Focuses study and analysis on EVA
+  * PIKE W. A., STASKO J., CHANG R., O’CONNELL T. A.: The science of interaction. Information Visualization 8, 4 (2009), 263–274.
+    * RATIONALE: discusses EVA within the larger context of visual analysis
+  * [NEW] Demiralp, Ç., Haas, P.J., Parthasarathy, S. and Pedapati, T., 2017. Foresight: Rapid data exploration through guideposts. arXiv preprint arXiv:1709.10513.
+    * RATIONALE: designs for EVA as a primary goal
+  * [NEW] Demiralp, Ç., Haas, P.J., Parthasarathy, S. and Pedapati, T., 2017. Foresight: Recommending visual insights. Proceedings of the VLDB Endowment, 10(12), pp.1937-1940.
+    * RATIONALE: designs for EVA as a primary goal
+2) Papers described or referenced by papers from 1) as also analyzing or designing for EVA were selected.
+  * J. Heer and B. Shneiderman. Interactive dynamics for visual analysis. Commun. ACM, 55(4):45–54, Apr. 2012.
+    * Referenced by:
+      * Kanit Wongsuphasawat, Dominik Moritz, Anushka Anand, Jock Mackinlay, Bill Howe, and Jeffrey Heer. 2016b. Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations. IEEE Trans. Visualization & Comp. Graphics (Proc. InfoVis) (2016).
+  * Shneiderman, B. 1996. The eyes have it: a task by data type taxonomy for information visualizations. Proceedings of the IEEE Symposium on Visual Languages; http://portal.acm.org/citation.cfm?id=832277.834354.
+    * Referenced by:
+      * Keim, D.A., 2001. Visual exploration of large data sets. Communications of the ACM, 44(8), pp.38-44.
+      * Battle, L., Chang, R. and Stonebraker, M., 2016, June. Dynamic prefetching of data tiles for interactive visualization. In Proceedings of the 2016 International Conference on Management of Data (pp. 1363-1375). ACM.
+3) Papers to provide context. Any tasks and topics from papers from 1) that were associated with EVA were also reviewed. These tasks and topics were used to identify relevant, well-known papers that also discuss these tasks/topics, such as the enterprise analysis survey by Kandel et al. (2012). Task and topic relevance suggested by paper authors or study subjects was considered (e.g., subjects’ comments in the study conducted by Alspaugh et al. (2018)).
+  * Kandel, S., Paepcke, A., Hellerstein, J. M., & Heer, J. (2012). Enterprise data analysis and visualization: An interview study. IEEE Transactions on Visualization and Computer Graphics, 18(12), 2917-2926.
+    * TOPIC/TASK: profiling, modeling
+    * Examples of relevant EVA papers:
+      * Keim, D.A., 2001. Visual exploration of large data sets. Communications of the ACM, 44(8), pp.38-44.
+      * STOLTE C., TANG D., HANRAHAN P.: Polaris: a system for query, analysis, and visualization of multidimensional relational databases. IEEE Transactions on Visualization and Computer Graphics 8, 1 (Jan 2002), 52–65.
+      * Perer, Adam, and Ben Shneiderman. "Systematic yet flexible discovery: guiding domain experts through exploratory data analysis." In Proceedings of the 13th international conference on Intelligent user interfaces, pp. 109-118. ACM, 2008.
+      * Alspaugh, S., Zokaei, N., Liu, A., Jin, C. and Hearst, M.A., 2018. Futzing and Moseying: Interviews with Professional Data Analysts on Exploration Practices. IEEE transactions on visualization and computer graphics.
+  * Lam, Heidi. "A framework of interaction costs in information visualization.” IEEE transactions on visualization and computer graphics 14.6 (2008).
+    * TOPIC/TASK: Interaction costs/pacing
+    * Examples of relevant EVA papers:
+      * Battle, L., Chang, R. and Stonebraker, M., 2016, June. Dynamic prefetching of data tiles for interactive visualization. In Proceedings of the 2016 International Conference on Management of Data (pp. 1363-1375). ACM.
+      * Crotty, A., Galakatos, A., Zgraggen, E., Binnig, C. and Kraska, T., 2016, June. The case for interactive data exploration accelerators (IDEAs). In Proceedings of the Workshop on Human-In-the-Loop Data Analytics (p. 11). ACM.
+      * Feng, M., Peck, E. and Harrison, L., 2018. Patterns and Pace: Quantifying Diverse Exploration Behavior with Visualizations on the Web. IEEE transactions on visualization and computer graphics.
+  * HEER J., MACKINLAY J., STOLTE C., AGRAWALA M.: Graphical Histories for Visualization: Supporting Analysis, Communication, and Evaluation.
+    * TOPIC/TASK: branching in data exploration
+    * Examples of relevant EVA papers:
+      * DERTHICK M., ROTH S. F.: Enhancing data exploration with a branching history of user operations. Knowledge-Based Systems 14, 1 (Mar. 2001), 65–74.
+  * KANG Y., STASKO J.: Examining the use of a visual analytics system for sensemaking tasks: Case studies with domain experts. IEEE Transactions on Visualization and Computer Graphics 18 (12 2012), 2869–2878.
+    * TOPIC/TASK: sensemaking
+    * Examples of relevant EVA papers:
+      * Zgraggen, E., Zhao, Z., Zeleznik, R. and Kraska, T., 2018, April. Investigating the Effect of the Multiple Comparisons Problem in Visual Analysis. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (p. 479). ACM.
+      * Alspaugh, S., Zokaei, N., Liu, A., Jin, C. and Hearst, M.A., 2018. Futzing and Moseying: Interviews with Professional Data Analysts on Exploration Practices. IEEE transactions on visualization and computer graphics.
+  * PIROLLI P., CARD S.: The sensemaking process and leverage points for analyst technology as identified through cognitive task analysis.
+    * TOPIC/TASK: information foraging, sensemaking, reasoning during EVA
+    * Examples of relevant EVA papers:
+      * Zhao, Z., De Stefani, L., Zgraggen, E., Binnig, C., Upfal, E. and Kraska, T., 2017, May. Controlling false discoveries during interactive data exploration. In Proceedings of the 2017 ACM International Conference on Management of Data (pp. 527-540). ACM.
+      * Alspaugh, S., Zokaei, N., Liu, A., Jin, C. and Hearst, M.A., 2018. Futzing and Moseying: Interviews with Professional Data Analysts on Exploration Practices. IEEE transactions on visualization and computer graphics.
+      * [NEW] Demiralp, Ç., Haas, P.J., Parthasarathy, S. and Pedapati, T., 2017. Foresight: Recommending visual insights. Proceedings of the VLDB Endowment, 10(12), pp.1937-1940.
+      * [NEW] Demiralp, Ç., Haas, P.J., Parthasarathy, S. and Pedapati, T., 2017. Foresight: Rapid data exploration through guideposts. arXiv preprint arXiv:1709.10513.
+  * MORITZ D., WANG C., NELSON G. L., LIN H., SMITH A. M., HOWE B., HEER J.: Formalizing visualization design knowledge as constraints: actionable and extensible models in draco. To appear, IEEE Transactions on Visualization and Computer Graphics (2019).
+    * TOPIC/TASK: treating EVA as a multidimensional search space
+    * Examples of relevant EVA papers:
+      * Jankun-Kelly, T. J., Ma, K. L., & Gertz, M. (2007). A model and framework for visualization exploration. IEEE Transactions on Visualization and Computer Graphics, 13(2), 357-369.
+      * WONGSUPHASAWAT K., MORITZ D., ANAND A., MACKINLAY J., HOWE B., HEER J.: Towards a general-purpose query language for visualization recommendation. In Proceedings of the Workshop on Human-In-the-Loop Data Analytics (2016), ACM, p. 4 
+  * ZIEMKIEWICZ C., OTTLEY A., CROUSER R. J., CHAUNCEY K., SU S. L., CHANG R.: Understanding visualization by understanding individual users. IEEE Computer Graphics and Applications 32, 6 (Nov 2012), 88–94.
+    * TOPIC/TASK: similarities in people’s analysis behaviors during EVA
+    * Examples of relevant EVA papers:
+      * Battle, L., Chang, R. and Stonebraker, M., 2016, June. Dynamic prefetching of data tiles for interactive visualization. In Proceedings of the 2016 International Conference on Management of Data (pp. 1363-1375). ACM.
+      * DABEK F., CABAN J. J.: A Grammar-based Approach for Modeling User Interactions and Generating Suggestions During the Data Exploration Process. IEEE Transactions on Visualization and Computer Graphics 23, 1 (Jan. 2017), 41–50.

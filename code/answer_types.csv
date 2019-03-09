@@ -1,0 +1,34 @@
+dataset|task|answer|answerType|answerCorrect|answerThoroughness
+birdstrikes1|t1|Wing/rotor damaged the most|1|True|1
+birdstrikes1|t1|Wing/rotor most occurrences of minor damage, engines 1 and 2 most occurrences of severe damage|2|True|2
+birdstrikes1|t2|Airplane has more occurrences of damage|1|True|1
+birdstrikes1|t2|Airplane has more occurrences of severe damage|2|True|2
+birdstrikes1|t2|Airplane has more records (including no damage)|3|False|0
+birdstrikes1|t2|Helicoptor has higher fraction of incidents resulting in at least minor damage|4|True|2
+birdstrikes1|t2|Ultralight has higher fraction of incidents resulting in at least minor damage|5|True|2
+birdstrikes1|t3|Not correlated with time (no mention of clear weather)|1|True|1
+birdstrikes1|t3|Not correlated with time (mentions clear weather)|2|True|2
+birdstrikes1|t3|Incidents occur more in bad weather (ignore clear weather)|3|False|1
+birdstrikes1|t3|Not enough data|4|True|1
+weather1|t1|Heavy fog has most occurrences, don't remove anything|1|True|1
+weather1|t1|Heavy fog has most occurrences, don't remove anything (investigated differences over time)|2|True|2
+weather1|t1|Heavy fog has most occurrences, remove measures with very little data (e.g., ground fog)|3|True|1
+weather1|t1|Fog has most occurrences|4|False|0
+weather1|t2|Max and min temperatures have been increasing on average|1|True|1
+weather1|t2|Max and min temperatures have not changed much over time|2|True|1
+weather1|t2|Max temperatures have been decreasing over time, and min temperatures been increasing over time (filtered out stations with bad temperature measurements)|3|True|2
+weather1|t3|More high wind occurrences in the Northeast than the Southwest|1|True|1
+weather1|t3|More high wind occurrences in the Southwest than the Northeast|2|True|1
+faa1|t1|Delayed flights have most counts of occurrences|1|True|1
+faa1|t1|Delayed flights have most counts of occurrences (filtered for delay > 0)|2|True|2
+faa1|t1|Delayed flights have most counts of occurrences (looked at raw sum/count values)|3|False|0
+faa1|t2|Total flights have generally gone down over time, with just a few deviations from some airlines, like Delta and/or Southwest|1|True|1
+faa1|t2|Not much change in airlines, with just a few deviations from some airlines, like Delta and/or Southwest|2|True|1
+faa1|t2|See percentage losses for most airlines, with just a few deviations for some airlines, like expressJet, JetBlue and SkyWest|3|True|2
+faa1|t3|No clear relationship|1|True|1
+faa1|t3|Positive correlation|2|False|1
+faa1|t3|Negative correlation|3|False|1
+faa1|t3|No clear relationship (with more analysis)|4|True|2
+faa1|t3|Specific long flights have more delays (cross-country,transcontinental)|5|True|1
+faa1|t3|Positive correlation (with more analysis)|6|False|2
+faa1|t3|Negative correlation (with more analysis)|7|False|2

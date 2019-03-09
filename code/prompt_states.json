@@ -1,0 +1,76 @@
+{
+  "birdstrikes1":{
+    "t1":{
+      "1":[["dam_eng1","dam_eng2","dam_windshld","dam_wing_rot","number of records"]],
+      "2":[["dam_eng1","dam_eng2","dam_windshld","dam_wing_rot"]]
+    },
+    "t2":{
+      "1":[["ac_class","damage","number of records"]],
+      "2":[["ac_class","damage"]]
+    },
+    "t3":{
+      "1":[["precip","sky","incident_date","number of records"]],
+      "2":[["precip","sky","incident_date"]],
+      "3":[["precip","incident_date","number of records"],["sky","incident_date","number of records"]],
+      "4":[["precip","incident_date"],["sky","incident_date"]]
+    },
+    "t4":{
+      "1":[["number of records","precip","sky"]],
+      "2":[["precip","sky"]],
+      "3":[["number of records","sky"],["number of records","precip"]],
+      "4":[["sky"],["precip"]]
+    }
+  },
+  "faa1":{
+    "t1":{
+      "1":[["cancelled","diverted","arrdelay","depdelay","number of records"]],
+      "2":[["cancelled","diverted","arrdelay","depdelay","number of records"]]
+    },
+    "t2":{
+      "1":[["number of records","flightdate","uniquecarrier"]],
+      "2":[["flightdate","uniquecarrier"]]
+    },
+    "t3":{
+      "1":[["distance","arrdelay","number of records"]],
+      "2":[["distance","arrdelay"]]
+    },
+    "t4":{
+      "1":[["uniquecarrier","origin","dest","number of records"]],
+      "2":[["uniquecarrier","origin","dest"]],
+      "3":[["uniquecarrier","origin","number of records"],["uniquecarrier","dest","number of records"]],
+      "4":[["uniquecarrier","origin"],["uniquecarrier","dest"]]
+    }
+  },
+  "weather1":{
+    "t1":{
+      "1":[["heavyfog","mist","drizzle","groundfog","number of records"]],
+      "2":[["heavyfog","mist","drizzle","groundfog"]]
+    },
+    "t2":{
+      "1":[["tmax","tmin","date","number of records"]],
+      "2":[["tmax","tmin","date"]],
+      "3":[["tmax","date"],["tmin","date"]]
+    },
+    "t3":{
+      "1":[["highwinds","state","number of records"]],
+      "2":[["highwinds","state"]],
+      "3":[["highwinds","lat","lng","number of records"]],
+      "4":[["highwinds","lat","lng"]],
+      "5":[["highwinds","state","lat","lng","number of records"]]
+    },
+    "t4":{
+      "1":[["date","state","number of records"]],
+      "2":[["date","lat","lng","number of records"]],
+      "3":[["name","date","state","number of records"]],
+      "4":[["name","date","lat","lng","number of records"]],
+      "5":[["date","state"]],
+      "6":[["date","lat","lng"]],
+      "7":[["name","date","state"]],
+      "8":[["name","date","lat","lng"]],
+      "9":[["date","state","lat","lng","number of records"]],
+      "10":[["date","name","state","lat","lng","number of records"]],
+      "11":[["date","state","lat","lng"]],
+      "12":[["date","name","state","lat","lng"]]
+    }
+  }
+}
