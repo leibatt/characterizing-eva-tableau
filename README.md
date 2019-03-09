@@ -14,6 +14,5 @@ prompt\_states includes the data attributes associated with achieving task goals
 
 Our overlap (histograms, modified Jaccard similarity) and loop analyses are computed using graphAnalysis.py, overlap.py, and getBaseStats.py
 
-think\_time.csv, thin\_tim\_stats.csv, thin\_tim\_sequences.csv and ope\_ende\_inputs.csv include the data for our timing analyses.
-
-Our analyses are performed using thinkTime.py, thinkTimeSequences.py, think\_time.R and thin\_tim\_sequences.R.
+think\_time.csv, think\_time\_stats.csv, think\_time\_sequences.csv and open\_ended\_inputs.csv include the data for our timing analyses.
+Our analyses are performed using thinkTime.py, thinkTimeSequences.py, think\_time.R and think\_time\_sequences.R.
